@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Hi41jVG5urSAMBPrqM22eIKPC7Zm/LdyPkPPXl0JpT8=",
+  "Source": "with_asp_net_core",
+  "BasePath": "_content/with_asp_net_core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
